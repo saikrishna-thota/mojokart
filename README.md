@@ -1,2 +1,2 @@
 # mojokart
-A baseline gramework for shopping cart 
+A baseline framework for shopping cart 

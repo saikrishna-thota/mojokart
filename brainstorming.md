@@ -28,11 +28,14 @@
 - Infra
   - db
   - SMTP
+  - Mobile SMS services
   - cloud machine
   - app dynamics
   - fluentd
   - actuator
   - k8s 
- - Monitoring
- - Logging
- - App Dynamics
+  - Monitoring
+  - Logging
+  - App Dynamics
+  - Search Engine 
+  - CI tool (gitLab)
