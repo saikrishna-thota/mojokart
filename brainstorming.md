@@ -25,4 +25,12 @@
   - Videos
 - Caching
 - Global Search
-- 
+- Infra
+  - db
+  - SMTP
+  - cloud machine
+  - app dynamics
+  - fluentd
+  - actuator
+  - k8s 
+  - 
