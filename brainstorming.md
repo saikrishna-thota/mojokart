@@ -33,4 +33,6 @@
   - fluentd
   - actuator
   - k8s 
-  - 
+ - Monitoring
+ - Logging
+ - App Dynamics
