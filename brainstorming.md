@@ -1,1 +1,28 @@
-
+- Users
+  - Clients/Customers
+  - End users
+  - Vendors
+- Roles
+  - Admin
+  - Normal
+- Social Sign on
+- Personal profile
+- Permissions
+- Role based actions
+- State diagram 
+- Workflows
+- Product management
+- Impersonation
+- Notifications
+  - SMS
+  - Email
+  - Push
+- Reporting
+- Document repo
+  - Product images
+  - Profile photos
+  - Product related docs
+  - Videos
+- Caching
+- Global Search
+- 
