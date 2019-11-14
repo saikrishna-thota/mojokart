@@ -6,6 +6,7 @@
   - Admin
   - Normal
 - Social Sign on
+- SSL Certificates
 - Personal profile
 - Permissions
 - Role based actions
@@ -39,3 +40,16 @@
   - App Dynamics
   - Search Engine 
   - CI tool (gitLab)
+  - Splunk
+- DashBoard
+  - Normal User
+  - Admin
+#MicroServices
+ - Auth Service
+ - User Service
+ - Order Service
+ - Cart Service
+ - Tracking Service
+ - Product / Catalogue Service
+ - Payment Service
+ 
